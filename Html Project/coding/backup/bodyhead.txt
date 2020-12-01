@@ -1,0 +1,5 @@
+<hr size="7" width="1100" color="green" noshade="">
+		<font face="tahoma" size="7" color="skyblue">
+		<b><u><p><img src="F:\Html Project\Images\icon.jpg" width="100" align="left">Kolkata Tourisium</p></u></b></font><p><font face="tahoma" size="7" color="skyblue"><b><u></u></b>
+		</font>
+		</p><hr size="7" width="1100" color="green" noshade="">

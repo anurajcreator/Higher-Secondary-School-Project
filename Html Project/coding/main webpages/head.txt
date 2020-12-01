@@ -1,0 +1,12 @@
+<html>
+	<head>
+		<title>head</title>
+	</head>
+	<body background="Homewall3.jpg">
+		<div align=center>
+		<font face="tahoma" size="7" color="WHITE">
+		<b><u><p><img src="icon1.png" width="100" align="left">Kolkata Tourism<img src="icon1.png" width="100" align="right"></p></u></b></font><p><font face="tahoma" size="7" color="skyblue"><b><u></u></b>
+		</font>
+		</div>
+	</body>
+</html>

@@ -1,0 +1,16 @@
+<html>
+<head>
+<link rel="shortcut icon" href="icon1.ico">
+<title>Best Time to Visit Kolkata</title>
+</head>
+<body bgcolor="white" leftmargin="">
+	<font face="tahoma" color="grey">
+	<Div align="center">
+	<p><h2>BEST TIME TO VISIT KOLKATA</h2></p>
+	<p>The average minimum and maximum temperature of Kolkata is as given below. The best time to visit Kolkata is also specified.</p>	
+	<img src="table.png" width="500" height="400" border="4">
+	</Div>
+	</font>
+
+</body>
+</html>

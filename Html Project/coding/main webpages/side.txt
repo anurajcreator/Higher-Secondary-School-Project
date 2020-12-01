@@ -1,0 +1,20 @@
+<html>
+ 	<head>
+		<title>side</title>
+	</head>
+	<body background="homewall3.jpg" alink="white" vlink="white" link="white" >
+		<font face=tahoma size=2 color=#7fff00>
+			<b><p><h3>MainMenu</h3></p></b>
+			<ul type=circle>
+				<li><a href="body1.html" target=MAIN>Home</a></li><br>
+				<li><a href="meulib.html" target=MAIN>Muesium and Libraries</a></li><br>
+				<li><a href="cipark.html" target=MAIN>City Parks</a></li><br>
+				<li><a href="stme.html" target=MAIN>Statue and Memorials</a></li><br>
+				<li><a href="besttime.html" target=MAIN>Best Time To Vist Kolkata</a></li><br>
+				<li><a href="pow.html" target=MAIN>Places of worship</a></li><br>
+				<li><a href="Aboutus.HTML" target=MAIN>About us</a></li><br>
+			</ul>
+		</font>
+		<img src="t copy.png" align=bottom>
+	</body>
+</html>

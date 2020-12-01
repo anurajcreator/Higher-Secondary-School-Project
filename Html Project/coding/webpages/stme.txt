@@ -1,0 +1,39 @@
+<html>
+	<head>
+		<link rel="shortcut icon" href="icon1.ico">
+		<title>	Statues and Memorials</title>
+	</head>
+	<body bgcolor=white>
+		<div align=center>
+		<font face=tahoma size=5 color=grey>
+			<b><u><p><h2>	Statues and Memorials</h2><p></u></b>
+		</font>
+		</div>
+		<font face=tahoma size=3 color=grey>
+		<b><p><h2>Victoria Memorial</h2></p></b>
+		<p>
+		<img src="Homewall2.jpg" align=right border=4 height=160>
+		Victoria Memorial was Lord Curzon's brainchild as a memorial to the Empress of India and Queen of the United Kingdom, Queen Victoria after her death in 1901, the Victoria Memorial was modelled on the Taj Mahal and was commissioned in 1906. Opened to the public in 1921, it was designed by the architects William Emerson and his protege Vincent Esch at the extraordinary cost of Rupees 10.5 million ($262,500), all of which was collected as voluntary donations, mostly from the British and Indian nobility. The memorial holds numerous paintings of the British royal family, miniature paintings of the Mughal School, oil paintings of the Company School (notably the uncle - nephew pair of Thomas Daniell and William Daniell), historical artefacts like the throne of the Nawab of Bengal, many lithographs and documents of historical interest, and various post-Raj artefacts significant in the history of Kolkata (added to the collection after independence). The memorial is set in extensive and beautiful lawns, and is lit up 		at night. A laser audio-visual show is held on the lawns every evening. 'Nike', the Greek Goddess of victory, on the top of the museum is said to be haunted, and has been prominently featured in many Kolkata stories and novels. It is regarded with pride and joy in Kolkata and colloquially referred to as the "Victoria".
+		</p>
+		<b><p><h2> Shaheed Minar</h2></p></b>
+		<p>
+		<img src="sm.jpg" align=right border=4 height=300 width=190 hspace=10 vspace=10>
+		The Shaheed Minar or "Tower of the Martyrs", (formerly Ochterlony Monument) was constructed on the northern fringe of the Maidan in honour of Sir David Ochterlony who commanded the British East India Company forces in the Gurkha War (1814–1816). It was renamed Shaheed Minar in honour of the fallen freedom fighters after Indian independence.
+		</p>
+		<b><p><h3>Kolkata has many statues celebrating British heritage and the Indian Renaissance and freedom movement. The Maidan is a particularly good place for statue-hunting. A few of the more notable landmarks are as follows:</h3></p></b>
+		</font>
+		<font face=tahoma size=3 color=grey>
+		<ul type=square>
+			<li>The statue of Subhas Chandra Bose, by Marathi sculptor Nagesh Yoglekar is located at the Shyambazar five-point crossing.</li>
+			<li>The statue of Sir James Outram by Irish sculptor John Henry Foley built in 1874 is located in front of the Victoria Memorial, originally at the Park Street and Chowringhee Avenue crossing.</li>
+			<li>The statue of Iswarchandra Vidyasagar by Bengali sculptor Pramod Gopal Chattopadhyay built in 1899 is located on the premises of Sanskrit College.</li>
+			<li>The statue of Rabindranath Tagore by Russian sculptor Aizekovich Azgur built in 1963 is located at the premises of Jorasanko Thakur Bari, the Tagore family residence.</li>
+			<li>The statue of David Hare was built in 1847. It is one of Kolkata's few marble statues, on the precincts of Presidency College.</li>
+			<li>Besides, the statue of the celebrated Bengali film star Uttam Kumar stands at the Deshopran Sashmal Road.</li>
+			<li>The statue of Karl Marx near Maidan</li>
+			<li>Bengali War Memorial, located at College Square, is a war memorial dedicated to the fallen soldiers of 49th Bengali Regiment, the only British Indian Army regiment to consist entirely of ethnic Bengalis, who served in World War I.</li>
+		</ul>
+		
+	</font>
+</body>
+</html>

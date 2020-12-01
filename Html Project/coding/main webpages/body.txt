@@ -1,0 +1,91 @@
+<html>
+	<head>
+		<link rel="shortcut icon" href="icon1.ico">
+		<title>Home</title>
+	</head>
+	<body bgcolor=white>
+	<div align="center">
+	<img src="Homewall4.jpg" width="900" height="500" border="4">
+	</div>	
+		<font face="tahoma" size="4" color="grey">
+		<p></p><h2>KOLKATA TOURISM</h2><p></p>
+		<p>
+		<img src="tk.jpg" width="320" height="160" border="4" align="right" hspace="10" vspace="10">
+        	Known as the ‘City of Joy’, Kolkata holds an important place in the economy, politics and culture of India.
+		The capital of West Bengal, Kolkata is one of the four metropolitan cities in India and has retained its 
+		quintessential charm despite modernization.</p>
+                <p>
+		<img src="sk.jpg" height="160" border="4" align="left" hspace="10" vspace="10">
+		‘What Bengal thought today, India thought tomorrow’, is a famous line associated with the city for having
+		 produced some of the greatest thinkers, artists, film makers and writers like Rabindranth Tagore, 
+		 Bankim Chandra Chattopadhyay and Sarat Chandra Chattopadhyay and Satyajit Ray. Indeed, ideas in Kolkata 
+		 in the fields of art, literature, cinema and theater have provided inspiration to rest of the country.
+                </p><br>
+		<div align="center">
+		<hr size="7" width="1100" color="darkgrey" noshade="">
+		<video controls="">
+                <source src="v1.mp4" type="video/mp4">
+	        </video>
+		<hr size="7" width="1100" color="darkgrey" noshade="">
+		</div>	
+		<p>
+		<img src="hk.jpg" width="320" height="160" border="4" align="right" hspace="10" vspace="10">
+		Earlier known as Calcutta, the city was founded in 1698 and served as the capital of British India till
+		1911 and then was shifted to Delhi. The city was renamed, Kolkata in 2001. Located along the banks of 
+                river Hoogly, Kolkata is connected to Howrah by the iconic Howrah bridge.</p>
+		<p>
+		The city’s colonial past is reflected in its architecture. Raj Bhavan, Writers’ Building and the 
+		Victoria Memorial Hall(at the top of the page) are just some of the many buildings that hark back to a bygone era. Kolkata is
+		also home to some of the best educational institutes in the country.</p>
+		<p>
+		<img src="s2k.jpg" height="160" border="4" align="left" hspace="10" vspace="10">
+		<img src="Sv.jpg" height="160" border="4" align="left" hspace="10" vspace="10">
+                <img src="kk.jpg" height="160" border="4" align="left" hspace="10" vspace="10">
+		Ideas of the famous social reformists Swami Vivekananda and Raja Ram Mohun Roy and Shahid Khudiram and Indian freedom fighter 
+		Shubhas Chandra Bose were formed during their years of education in Kolkata.  Mother Teresa spent a major 
+		part of her life and also lies in eternal rest in the city at The Mother House.</p><br><br>
+		<p>
+		<img src="dk.jpg" height="160" border="4" align="right" hspace="10" vspace="10">
+		It is among the 52 Shakti Peethas in the world. Goddess Kali is deeply revered and Durga Pooja is 
+		celebrated in the grandest manner in Kolkata, especially at Kalighat’s Kali temple.</p>
+		<p>
+		<img src="s3k.jpg" height="160" border="4" align="left" hspace="10" vspace="10">
+		Kolkata has produced some finest sportsmen who have represented India like Sourav Ganguly and Leander Paes.
+ 		It is also home to some of the most popular international sports stadium like Eden Gardens and Salt Lake 
+		stadium.</p><br><br>
+		<p></p><h2>BEST PLACES TO STAY IN KOLKATA</h2><p></p>				
+		<p>
+		<img src="d2k.jpg" height="160" border="4" align="right" hspace="10" vspace="10">
+		Kolkata offers innumerable accommodation options to suit everyone’s budget and needs. Budget accommodation is available on Chowringhe Road and 
+		Sudder Street. There are quite a few mid-range accommodation options near Dalhousie Square.</p><br>
+		<p>
+		<img src="ak.jpg" width="250" height="160" border="4" align="left" hspace="10" vspace="10">
+		Apart from these, Kolkata also has innumerable luxury hotels in different parts of the city. There are 
+		several luxury hotels near the International Airport as well.</p><br><br><br>
+		<p></p><h2>
+		BEST PLACES TO EAT IN KOLKATA</h2><p></p>
+		<p>
+		<img src="pk.jpg" height="160" border="4" align="right" hspace="10" vspace="10">
+		One can find eateries serving delicious authentic Bengali cuisine, Indian and other international cuisines. 
+		Most of the famous eateries are over hundred-years-old. Park Street is the most famous place to eat at, 
+		in Kolkata.</p><br>
+		<p>
+		<img src="k2k.jpg" height="160" border="4" align="left" hspace="10" vspace="10">
+		<img src="p2k.jpg" height="160" border="4" align="left" hspace="10" vspace="10">
+		Kathi kebab is the most famous fast-food in Kolkata served best at the New Market area, Hogg Market and 
+		Elgin Street. Almost every restaurant in the city serves sea food and Mughalai delicacies. Kolkata thrives
+		on street food like chops, rolls and puchka (paani puri or gol gappa) that are also extremely delicious 
+		and are found throughout city.</p><br>
+		<p>
+		<img src="r2k.jpg" height="160" border="4" align="right" hspace="10" vspace="10">
+		<img src="s4k.jpg" height="160" border="4" align="right" hspace="10" vspace="10">
+                <img src="d3k.jpg" height="160" border="4" align="right" hspace="10" vspace="10">
+		Flurry’s on Park Street is considered one of the best Swiss bakeries here. Cafes in Kolkata are extremely 
+		popular. Indian Coffee House is the most famous coffee shop where the intellectuals of the city meet. 
+		Bengali milk sweets like rasagulla, misthi doi, sandesh, and ras-malai, are served at its best in Kolkata.
+	        They are found almost everywhere in the city.</p>
+		<p>--------------------------------------------------------------------------------x-----------------------------------------------------------------------------------------</p>
+          </font>           
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+<html>
+	<head>
+		<link rel="shortcut icon" href="icon.ico">
+		<title>About us</title>
+	</head>
+	<body bgcolor=white>
+		<font face="tahoma" size=6 color=darkgrey>
+			<div align=center>
+				<u><p><h2>Ballygunge Govt. High School</h2><p></u>
+				<b><p>Name:-Anuraj Anand Singh & Adeetha Mitra<p><b>
+				<b><p>Class:- 12 <br>Sec:- A <br> Subject:-Comp.Sc Project<p><b>
+				<b><p>Contact Number:- 7980708605/9007712266</p></b>
+			</div>
+		</font>
+	</body>
+</html>
+				

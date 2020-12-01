@@ -1,0 +1,4 @@
+<head>
+		<link rel="shortcut icon" href="F:\Html Project\Images\icon.ico">
+		<title>Kolkata Tourisium</title>
+	</head>

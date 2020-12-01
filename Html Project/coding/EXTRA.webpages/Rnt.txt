@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>Rabindranath Tagore</title>
+</head>
+
+<body>
+	<font face="tahoma" color="Grey" size="4">
+		<div align="center"><h2><ul>Rabindra Nath Tagore</ul></h2></div>
+		<p>
+		<img src="Rnt.jpg" border=4 align=right>
+		 Rabindranath Tagore, also written Ravīndranātha Thākura (7 May 1861 – 7 August 1941)
+		 was a Bengali polymath who reshaped Bengali literature and music, as well as Indian art with Contextual Modernism in the late 19th and early 20th centuries. Author of Gitanjali and its "profoundly sensitive, fresh and beautiful verse", he became the first non-European to win the Nobel Prize in Literature in 1913. Tagore's poetic songs were viewed as spiritual and mercurial; however, his "elegant prose and magical poetry" remain largely unknown outside Bengal.He is sometimes referred to as "the Bard of Bengal".<br><br>
+
+		A Pirali Brahmin from Calcutta with ancestral gentry roots in Jessore, Tagore wrote poetry as an eight-year-old. At the age of sixteen, he released his first substantial poems under the pseudonym Bhānusiṃha ("Sun Lion"), which were seized upon by literary authorities as long-lost classics. By 1877 he graduated to his first short stories and dramas, published under his real name. As a humanist, universalist internationalist, and ardent anti-nationalist, he denounced the British Raj and advocated independence from Britain. As an exponent of the Bengal Renaissance, he advanced a vast canon that comprised paintings, sketches and doodles, hundreds of texts, and some two thousand songs; his legacy also endures in the institution he founded, Visva-Bharati University.<br><br>
+
+		Tagore modernised Bengali art by spurning rigid classical forms and resisting linguistic strictures. His novels, stories, songs, dance-dramas, and essays spoke to topics political and personal. Gitanjali (Song Offerings), Gora (Fair-Faced) and Ghare-Baire (The Home and the World) are his best-known works, and his verse, short stories, and novels were acclaimed—or panned—for their lyricism, colloquialism, naturalism, and unnatural contemplation. His compositions were chosen by two nations as national anthems: India's Jana Gana Mana and Bangladesh's Amar Shonar Bangla. The Sri Lankan national anthem was inspired by his work.<br><br>
+		
+		Dutta and Robinson describe this phase of Tagore's life as being one of a "peripatetic litterateur". It affirmed his opinion that human divisions were shallow. During a May 1932 visit to a Bedouin encampment in the Iraqi desert, the tribal chief told him that "Our prophet has said that a true Muslim is he by whose words and deeds not the least of his brother-men may ever come to any harm ..." Tagore confided in his diary: "I was startled into recognizing in his words the voice of essential humanity." To the end Tagore scrutinised orthodoxy—and in 1934, he struck. That year, an earthquake hit Bihar and killed thousands. Gandhi hailed it as seismic karma, as divine retribution avenging the oppression of Dalits. Tagore rebuked him for his seemingly ignominious implications.He mourned the perennial poverty of Calcutta and the socioeconomic decline of Bengal, and detailed these newly plebeian aesthetics in an unrhymed hundred-line poem whose technique of searing double-vision foreshadowed Satyajit Ray's film Apur Sansar. Fifteen new volumes appeared, among them prose-poem works Punashcha (1932), Shes Saptak (1935), and Patraput (1936). Experimentation continued in his prose-songs and dance-dramas— Chitra (1914), Shyama (1939), and Chandalika (1938)— and in his novels— Dui Bon (1933), Malancha (1934), and Char Adhyay (1934).[citation needed]<br><br>
+		<div align="center">
+			"Clouds come floating into my life, no longer to carry rain or usher storm, but to add color to my sunset sky."<br>
+			—Verse 292, Stray Birds, 1916.<br><br>
+		</div>
+ 		
+		Tagore's remit expanded to science in his last years, as hinted in Visva-Parichay, a 1937 collection of essays. His respect for scientific laws and his exploration of biology, physics, and astronomy informed his poetry, which exhibited extensive naturalism and verisimilitude. He wove the process of science, the narratives of scientists, into stories in Se (1937), Tin Sangi (1940), and Galpasalpa (1941). His last five years were marked by chronic pain and two long periods of illness. These began when Tagore lost consciousness in late 1937; he remained comatose and near death for a time. This was followed in late 1940 by a similar spell, from which he never recovered. Poetry from these valetudinary years is among his finest. A period of prolonged agony ended with Tagore's death on 7 August 1941, aged eighty; he was in an upstairs room of the Jorasanko mansion he was raised in.The date is still mourned.
+		A. K. Sen, brother of the first chief election commissioner, received dictation from Tagore on 30 July 1941, a day prior to a scheduled operation: his last poem.<br><br>
+		<div align="center">
+			<img src="Rnt2.jpg" border=4>
+			<h3><ul>Last picture of Rabindranath, 1941</ul></h3>
+		</div>
+		I'm lost in the middle of my birthday. I want my friends, their touch, with the earth's last love. I will take life's final offering, I will take the human's last blessing. Today my sack is empty. I have given completely whatever I had to give. In return if I receive anything—some love, some forgiveness—then I will take it with me when I step on the boat that crosses to the festival of the wordless end.
+		</p>
+	</font>
+</body>
+</html>

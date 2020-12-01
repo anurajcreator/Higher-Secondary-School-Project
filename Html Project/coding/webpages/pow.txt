@@ -1,0 +1,66 @@
+<html>
+	<head>
+		<link rel="shortcut icon" href="icon1.ico">
+		<title>Places of worship</title>
+	</head>
+	<body bgcolor=white alink=black vlink=black link=black>
+		<div align=center>
+		<font face=tahoma size=5 color=grey>
+			<b><u><p><h2>Places of worship</h2><p></u></b>
+		</font>
+		</div>
+		<font face=tahoma size=5 color=grey>
+		<b><u><p><h2>Temples</h2><p></u></b>
+		<ul type=disc>
+			<li>Dakshineswar Kali Temple</li><br>
+			<li>Kalighat Kali Temple</li><br>
+			<li>Karunamoyee Kali Temple</li><br>
+			<li>Birla temple</li><br>
+			<li>Belur Math</li><br>
+			<li>Firinghi Kalibar</li><br>
+			<li>Thanthania Kalibari</li><br>
+			<li>Dwadash Shiva Temples</li><br>
+			<li>Badridas Jain Temple</li><br>
+			<li>Belgachia Jain Temple<</li><br>
+			<li>Chitteshwari Temple</li><br>
+			<li>Madanmohan Temple</li><br>
+			<li>Durgeswar Shiv Mandir</li><br>
+			<li>Bhukailash Shiva Temple</li><br>
+		</ul>
+		<b><u><p><h2>Mosques</h2><p></u></b>
+		<ul type=disc>
+			<li>Tipu Sultan Mosque</li></li><br>
+			<li>Nakhoda Masjid </li><br>
+			<li>Niyamatullah Ghat Masjid</li><br>
+			<li>Karbala Dargah</li><br>
+			<li>Metiabruz Imambara</li><br>
+			<li>Kamarhaty Badi Masjid</li><br>
+			<li>Sola Ana Masjid</li><br>
+			<li>Ballygunge Masjid</li><br>
+			<li>Aftab Masjid</li><br>
+			<li>Masjid E Mohammadi etc.</li><br>
+		</ul>
+		<b><u><p><h2>Churches</h2><p></u></b>
+		<ul type=disc>
+			<li>St. Paul’s Cathedral</li><br>
+			<li>St. John's Church</li><br>
+			<li>Greek Orthodox Church</li><br>
+			<li>St. James' Church, Kolkata (Jora Girja)</li><br>
+			<li>Church of the Lord Jesus</li><br>
+			<li>Armenian Church of the Holy Nazareth</li><br>
+			<li>Cathedral of the Most Holy Rosary (Portuguese Church)</li><br>
+		</ul>
+		<b><u><p><h2>Other religious establishments</h2><p></u></b>
+		<ul type=disc>
+			<li>Parsi Fire Temples</li><br>
+			<li>Japanese Buddhist Temple</li><br>
+			<li>Chinese temples in Kolkata</li><br>
+			<li>Bhowanipore Gurudwara</li><br>
+			<li>Magen David Synagogue</li><br>
+			<li>Bethel Synagogue</li><br>
+			<li>Gurudwara Bara Sikh Sangat</li><br>
+		</ul>
+		</font>
+</body>
+</html>
+			
